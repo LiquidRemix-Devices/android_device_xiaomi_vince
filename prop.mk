@@ -226,3 +226,16 @@ PRODUCT_PROPERTY_OVERRIDES += \
 dalvik.vm.dex2oat-threads=8 \
 dalvik.vm.image-dex2oat-threads=8 \
 debug.generate-debug-info=false
+
+# Usb
+PRODUCT_PROPERTY_OVERRIDES += \
+persist.sys.usb.config.extra=none
+
+# Fix Cast/Miracast
+PRODUCT_PROPERTY_OVERRIDES += \
+persist.sys.wfd.virtual=0
+
+# ART
+PRODUCT_PROPERTY_OVERRIDES += \
+dalvik.vm.dex2oat-filter=speed \
+dalvik.vm.image-dex2oat-filter=speed
