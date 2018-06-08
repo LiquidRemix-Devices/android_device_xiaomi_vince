@@ -169,8 +169,8 @@ PRODUCT_PACKAGES += \
     vendor.display.config@1.0_vendor
 
 # Glove mode
-PRODUCT_PACKAGES += \
-    DeviceSettings
+#PRODUCT_PACKAGES += \
+#    DeviceSettings
 
 # DRM
 PRODUCT_PACKAGES += \
