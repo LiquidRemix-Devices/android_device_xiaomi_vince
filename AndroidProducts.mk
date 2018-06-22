@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/toxyc.mk
+    $(LOCAL_DIR)/bootleg.mk

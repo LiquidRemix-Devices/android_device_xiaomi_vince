@@ -1,2 +1,2 @@
-add_lunch_combo toxic_vince-userdebug
+add_lunch_combo bootleg_vince-userdebug
 
