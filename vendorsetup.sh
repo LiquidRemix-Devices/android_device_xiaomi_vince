@@ -1,2 +1,2 @@
-add_lunch_combo aosip_vince-userdebug
+add_lunch_combo liquid_vince-userdebug
 
