@@ -89,7 +89,7 @@ debug.enable.sglscale=1 \
 persist.hwc.enable_vds=1 \
 ro.opengles.version=196610 \
 ro.qualcomm.cabl=0 \
-ro.sf.lcd_density=440
+ro.sf.lcd_density=400
 
 # DRM
 PRODUCT_PROPERTY_OVERRIDES += \
