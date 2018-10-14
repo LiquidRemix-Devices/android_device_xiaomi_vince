@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.vince.rc \
-    init.goodix.sh
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := device/xiaomi/vince
