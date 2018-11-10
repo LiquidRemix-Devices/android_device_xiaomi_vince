@@ -1,1 +1,1 @@
-add_lunch_combo pixys_vince-userdebug
+add_lunch_combo liquid_vince-userdebug
